@@ -4,7 +4,7 @@ Resources and materials for a DataScience / AI training school for the medical d
 
 You can read the training content under this URL:
 
-https://scads.github.io/ai4medicine-2024
+[https://scads.github.io/ai4medicine-2025](https://scads.github.io/ai4medicine-2025)
 
 The following instructions are just for contributors and trainers.
 
