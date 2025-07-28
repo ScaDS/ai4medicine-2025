@@ -13,7 +13,7 @@ This is the website of the Data Science and AI for Medicine Training School 2025
 * Date: September 23th - 25th 2025
 * Place: Data Science Center ScaDS.AI / Uni Leipzig, 5th floor, Löhrstraße 18, 04105 Leipzig
 * Target audience: Students and scientists from the medical field with interest in learning Data Science and AI using Python. No prior programming experience required.
-* Registration: tba
+* Registration is open from Wednesday, 09. July 2025 at 18:00 to Friday, 22. August 2025 at 23:59, and limited to 25 participants: https://events.scads.ai/e/ai4medicine-2025
 
 ## Trainers
 
