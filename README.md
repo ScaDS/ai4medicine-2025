@@ -10,9 +10,14 @@ The following instructions are just for contributors and trainers.
 
 ## Development
 
-### Building the book
+### Python Environment and Dependencies
 
-If you'd like to develop and/or build the book, you should:
+* We maintain a common conda environment based on [conda-ai4med-env.yml](day0_preparation/conda-ai4med-env.yml)
+* If you want to make use of specific Python libraries for your session, add them to the conda env file
+
+### Building the Jupyter book
+
+If you'd like to develop and/or build the Jupyter book locally, you should:
 
 1. Clone this repository
 2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
