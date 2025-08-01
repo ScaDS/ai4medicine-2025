@@ -13,7 +13,16 @@ parts:
     chapters:
     - file: day1.1_python_basics/readme.md
       sections:
-      - file: day1.1_python_basics/01_first_notebook.ipynb 
+      - file: day1.1_python_basics/01_jupyter_notebooks.ipynb
+      - file: day1.1_python_basics/02_basic_terms_and_types.ipynb
+      - file: day1.1_python_basics/03_notebook_pitfalls.ipynb
+      - file: day1.1_python_basics/05_sequence_types.ipynb
+      - file: day1.1_python_basics/05a_indexing_sequences.ipynb
+      - file: day1.1_python_basics/05b_masking_arrays.ipynb
+      - file: day1.1_python_basics/06_dictionaries_and_tables.ipynb
+      - file: day1.1_python_basics/07_conditions.ipynb
+      - file: day1.1_python_basics/08_loops.ipynb
+      - file: day1.1_python_basics/09_custom_functions.ipynb
 
     - file: day1.2_python_file_handling/readme.md
       sections:
@@ -21,7 +30,7 @@ parts:
 
     - file: day1.3_ai_assistant/readme.md
       sections: 
-      - file: day1.3_ai_assistant/01_first_notebook.ipynb
+      - file: day1.3_ai_assistant/01_ai-assistant.ipynb
 
   - caption: Day 2
     chapters:

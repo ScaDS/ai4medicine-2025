@@ -2,11 +2,12 @@ name: ai4medicine-env
 channels:
   - conda-forge
 dependencies:
-  - python=3.13
+  - python=3.12
   - pip
   - notebook
   - jupyterlab
   - ipywidgets
+  - numpy
   - scikit-learn
   - pip:
     - bia-bob

@@ -20,7 +20,7 @@ you can skip this section. Otherwise, follow these steps to install Miniconda on
 
 1. **Download Miniconda:**
 * Visit the [Miniconda Download Page](https://www.anaconda.com/download/success#miniconda)
-* Choose the suitable _Miniconda_ installer for your computer and operating system (Windows, macOS, or Linux) and download it for the current stable Python version 3.13
+* Choose the suitable _Miniconda_ installer for your computer and operating system (Windows, macOS, or Linux) and download it
 2. **Install Miniconda:**
 * Start the installation program and follow the instructions on the download page and the instructions in the installation dialog. For most users, the default settings are the best choice.
 * During installation, you will be prompted to initialize conda and/or add conda to the PATH variable, depending on the operating system. _Accept these options_, even if you are warned that this is not recommended - conda will be added to your system's PATH variable, which makes it easier to use via the terminal and other tools.

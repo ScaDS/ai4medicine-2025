@@ -8,12 +8,17 @@ You can read the training content under this URL:
 
 The following instructions are just for contributors and trainers.
 
-## Development
+## Development and Contributions
 
 ### Python Environment and Dependencies
 
 * We maintain a common conda environment based on [conda-ai4med-env.yml](day0_preparation/conda-ai4med-env.yml)
 * If you want to make use of specific Python libraries for your session, add them to the conda env file
+
+### Slides
+
+* Provide prepared slides as pptx in [slides](slides)
+* Put a PDF version of the slides to the session folder and link it in the according readme.md
 
 ### Building the Jupyter book
 
