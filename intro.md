@@ -25,11 +25,11 @@ This is the website of the Data Science and AI for Medicine Training School 2025
 
 <pre>
 08:30-09:30	Arrival
-09:30-10:00	Welcome and organizational
-10:00-12:30	Python basics and tools – part 1
-12:30-13:30	Lunch
-13:30-15:00	Python basics and tools – part 2 
-15:00-15:30	Coffee
+09:30-10:15	Welcome and organizational
+10:15-12:45	Python basics and tools – part 1
+12:45-13:45	Lunch
+13:45-15:15	Python basics and tools – part 2 
+15:15-15:30	Coffee
 15:30-16:15	File handling with Python 
 16:15-17:00	Use of AI assistants in Jupyter
 17:00-18:00	Wrap up, questions & get familiar with Python, Jupyter and AI assistant
@@ -38,12 +38,12 @@ This is the website of the Data Science and AI for Medicine Training School 2025
 ### Wednesday, September 24th
 
 <pre>
-9:00-10:30	Research Data Management in Medicine 
-10:30-11:00	Coffee
-11:00-12:30	Introduction to Machine Learning 
-12:30-13:30	Lunch
-13:30-15:00	Data Handling & Data Preprocessing
-15:00-15:30	Coffee
+09:30-11:00	Research Data Management in Medicine 
+11:00-11:15	Coffee
+11:15-12:45	Introduction to Machine Learning 
+12:45-13:45	Lunch
+13:45-15:15	Data Handling & Data Preprocessing
+15:15-15:30	Coffee
 15:30-17:00	Explainability & Trustworthiness
 17:00-18:00	Wrap up, questions & work on your own data
 19:00-21:00	Scientific Networking Event
@@ -52,12 +52,12 @@ This is the website of the Data Science and AI for Medicine Training School 2025
 ### Thursday, September 25th
 
 <pre>
-9:00-10:30	Introduction to Deep Learning
-10:30-11:00	Coffee
-11:00-12:30	Application of Deep Learning in Medical Imaging (Radiology)
-12:30-13:30	Lunch
-13:30-15:00	Application of Large Language Models in Medicine
-15:00-15:30	Coffee
+09:30-11:30	Introduction to Deep Learning
+11:00-11:15	Coffee
+11:15-12:45	Application of Deep Learning in Medical Imaging (Radiology)
+12:45-13:45	Lunch
+13:45-15:15	Application of Large Language Models in Medicine
+15:15-15:30	Coffee
 15:30-17:00	Wrap up, questions & work on your own data
 17:00-18:00	Departure	
 </pre>
