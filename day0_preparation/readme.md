@@ -87,7 +87,7 @@ Please follow the steps on [this website](https://sdlaml.pages.jsc.fz-juelich.de
 
 ![img.png](helmholtz_api.png)
 
-A brief explanation of Large Language Models (LLM) and AI assistants can be downloaded as PDF [here](../day1.3_ai_assistant/llm_ai-assist.pdf).
+A brief explanation of Large Language Models (LLM) and AI assistants can be downloaded as PDF [here](../day1.3_ai_assistant/llm_ai-assistant.pdf).
 
 ---
   
