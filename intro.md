@@ -52,7 +52,7 @@ This is the website of the Data Science and AI for Medicine Training School 2025
 ### Thursday, September 25th
 
 <pre>
-09:30-11:30	Introduction to Deep Learning
+09:30-11:00	Introduction to Deep Learning
 11:00-11:15	Coffee
 11:15-12:45	Application of Deep Learning in Medical Imaging (Radiology)
 12:45-13:45	Lunch
