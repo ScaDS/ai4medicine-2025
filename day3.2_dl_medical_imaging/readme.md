@@ -1,5 +1,6 @@
 # Application of Deep Learning in Medical Imaging (Radiology)
 
-TODO: Describe session.
+You can download the slides from the first part [here]().
 
-You can download the slides [here]().
+In the hands-on session you will train a deep learning model predicting abnormalities from chest X-rays.
+
