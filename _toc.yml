@@ -48,8 +48,9 @@ parts:
       
     - file: day2.4_explainability/readme.md
       sections: 
-      - file: day2.4_explainability/01_first_notebook.ipynb
-  
+      - file: day2.4_explainability/pixel_classifier.ipynb
+      - file: day2.4_explainability/object_classification.ipynb
+      
   - caption: Day 3
     chapters:
     - file: day3.1_dl_introduction/readme.md
