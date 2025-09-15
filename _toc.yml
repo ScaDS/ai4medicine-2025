@@ -24,13 +24,14 @@ parts:
       - file: day1.1_python_basics/08_loops.ipynb
       - file: day1.1_python_basics/09_custom_functions.ipynb
 
-    - file: day1.2_python_file_handling/readme.md
-      sections:
-      - file: day1.2_python_file_handling/01_first_notebook.ipynb
-
-    - file: day1.3_ai_assistant/readme.md
+    - file: day1.2_ai_assistant/readme.md
       sections: 
-      - file: day1.3_ai_assistant/01_ai-assistant.ipynb
+      - file: day1.2_ai_assistant/01_ai-assistant.ipynb
+
+    - file: day1.3_python_file_handling/readme.md
+      sections:
+      - file: day1.3_python_file_handling/01_files_folders.ipynb
+      - file: day1.3_python_file_handling/02_image_files.ipynb
 
   - caption: Day 2
     chapters:
@@ -55,11 +56,13 @@ parts:
     chapters:
     - file: day3.1_dl_introduction/readme.md
       sections: 
-      - file: day3.1_dl_introduction/01_first_notebook.ipynb
+      - file: day3.1_dl_introduction/1_train_the_model.ipynb
+      - file: day3.1_dl_introduction/2_evaluate_trained_model.ipynb
+      - file: day3.1_dl_introduction/3_application.ipynb
 
     - file: day3.2_dl_medical_imaging/readme.md
       sections: 
-      - file: day3.2_dl_medical_imaging/01_first_notebook.ipynb
+      - file: day3.2_dl_medical_imaging/chest_notebook.ipynb
     
     - file: day3.3_llm_in_medicine/readme.md
       sections: 

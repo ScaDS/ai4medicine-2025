@@ -22,4 +22,4 @@ In this session, we will use HPC system and services provided at TU Dresden/ZIH.
    ```
    Now the environment should appear in the kernels list when you open any notebook.
 
-You can download the slides [here](https://github.com/ScaDS/ai4medicine-2025/blob/main/slides/3.3_df_introduction.pptx).
+You can download the slides [here](https://github.com/ScaDS/ai4medicine-2025/blob/main/slides/3.3_dl_introduction.pptx).

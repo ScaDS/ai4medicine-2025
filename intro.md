@@ -28,10 +28,10 @@ This is the website of the Data Science and AI for Medicine Training School 2025
 09:30-10:15	Welcome and organizational
 10:15-12:45	Python basics and tools – part 1
 12:45-13:45	Lunch
-13:45-15:15	Python basics and tools – part 2 
+13:45-15:15	Python basics and tools – part 2
 15:15-15:30	Coffee
-15:30-16:15	File handling with Python 
-16:15-17:00	Use of AI assistants in Jupyter
+15:30-16:15	Use of AI assistants in Jupyter
+16:15-17:00	File handling with Python
 17:00-18:00	Wrap up, questions & get familiar with Python, Jupyter and AI assistant
 </pre>
 

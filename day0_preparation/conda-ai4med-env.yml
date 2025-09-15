@@ -9,10 +9,11 @@ dependencies:
   - ipywidgets
   - numpy
   - scikit-learn
+  - shap
+  - stackview
+  - pydicom
   - pip:
     - bia-bob
-    - shap
-    - stackview
 
 variables:
   BLABLADOR_API_KEY: "my_api_key"
