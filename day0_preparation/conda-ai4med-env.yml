@@ -8,8 +8,11 @@ dependencies:
   - jupyterlab
   - ipywidgets
   - numpy
+  - pandas
   - scikit-learn
   - shap
+  - matplotlib
+  - seaborn
   - stackview
   - pydicom
   - pip:
