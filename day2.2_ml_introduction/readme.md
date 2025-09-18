@@ -7,7 +7,7 @@ This session introduces the principles of machine learning and guides you throug
 ## Course Overview
 
 * **ML vs. AI vs. Deep Learning** – key differences and connections
-* **ML Workflow** – problem definition → data preparation → modeling → evaluation → deployment
+* **ML Workflow** – problem definition → data preparation → modeling → evaluation
 * **Training & Optimization** – how models learn from data
 * **Evaluation** – performance metrics for classification tasks
 * **Logistic Regression** – fundamental binary classification model
