@@ -25,5 +25,5 @@ You can download the slides [here](ML_intro_ScaDSAI_2025.pdf)
 
 **references** 
 * [Scikit-learn Documentation](https://scikit-learn.org/stable/)
-* Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow* (Third Edition) – Aurelien Geron
-* Introduction to Machine Learning* (Forth Edition) – Ethem Alpaydin
+* Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow (Third Edition) – Aurelien Geron
+* Introduction to Machine Learning (Forth Edition) – Ethem Alpaydin
