@@ -16,7 +16,7 @@ This session introduces the principles of machine learning and guides you throug
 
 ---
 
-You can download the slides [here](https://github.com/ScaDS/ai4medicine-2025/blob/main/day2.2_ml_introduction/ML_intro_ScaDSAI_2025.pdf).
+You can download the slides [here](ML_intro_ScaDSAI_2025.pdf).
 
 ---
 

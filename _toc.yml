@@ -36,8 +36,6 @@ parts:
   - caption: Day 2
     chapters:
     - file: day2.1_rdm_medicine/readme.md
-      sections: 
-      - file: day2.1_rdm_medicine/01_first_notebook.ipynb
 
     - file: day2.2_ml_introduction/readme.md
       sections: 
@@ -45,7 +43,9 @@ parts:
 
     - file: day2.3_data_preprocessing/readme.md
       sections: 
-      - file: day2.3_data_preprocessing/01_first_notebook.ipynb
+      - file: day2.3_data_preprocessing/1_Pandas_Introduction.ipynb
+      - file: day2.3_data_preprocessing/2_Data_Cleaning.ipynb
+      - file: day2.3_data_preprocessing/3_Data_Transformation.ipynb
       
     - file: day2.4_explainability/readme.md
       sections: 
@@ -65,9 +65,6 @@ parts:
       - file: day3.2_dl_medical_imaging/chest_notebook.ipynb
     
     - file: day3.3_llm_in_medicine/readme.md
-      sections: 
-      - file: day3.3_llm_in_medicine/01_first_notebook.ipynb
-
 
   - caption: Information
     chapters:
