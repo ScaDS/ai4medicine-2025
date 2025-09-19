@@ -20,9 +20,9 @@ You can download the slides [here](ML_intro_ScaDSAI_2025.pdf).
 
 ---
 
-* `notebooks/` – PIMA classification Jupyter notebooks [here]()
-* `datasets/` – PIMA dataset [here](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
-* `references/` 
+* `notebooks` – PIMA classification Jupyter notebooks [here](https://github.com/ScaDS/ai4medicine-2025/blob/main/day2.2_ml_introduction/Binary_Classification_PIMA.ipynb)
+* `datasets` – PIMA dataset [here](https://github.com/ScaDS/ai4medicine-2025/blob/main/day2.2_ml_introduction/PIMA_Indians_Diabetes.csv)
+**`references`* 
 * [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 * Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow* (Third Edition) – Aurelien Geron
 * Introduction to Machine Learning* (Forth Edition) – Ethem Alpaydin
