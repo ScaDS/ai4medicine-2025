@@ -2,7 +2,7 @@
 
 In this chapter we will dive into explainable artificial intelligence and more precisely into SHapley Additive exPlanations, SHAP-Analysis.
 
-You can download the slides from [here](https://doi.org/10.5281/zenodo.17116757).
+You can download the slides (here](./2.4.Explainbility.pdf) ([PPTx on Zenodo](https://doi.org/10.5281/zenodo.17116757)).
 
 ## Installation
 
