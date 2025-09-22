@@ -13,13 +13,13 @@ This is the website of the Data Science and AI for Medicine Training School 2025
 
 ## Trainers
 
-* Marie Gerwek, Medical Data Science, Universitätsklinikum Leipzig
-* Dr. Sina Sadeghi, Medical Data Science, Universitätsklinikum Leipzig
-* Michaela Unger, Clinical AI / Kather lab, EKFZ, TU Dresden
-* Laura Žigutytė, Clinical AI / Kather lab, EKFZ, TU Dresden
-* Jan Clusmann, Clinical AI / Kather lab, EKFZ, TU Dresden
-* Asier Rabasco Meneghetti, Clinical AI / Kather lab, EKFZ, TU Dresden
-* Leo Misera, Clinical AI / Kather lab, EKFZ, TU Dresden
+* Marie Gerwek, IMISE / Medical Data Science, Universitätsklinikum Leipzig
+* Dr. Sina Sadeghi, IMISE / Medical Data Science, Universitätsklinikum Leipzig
+* Michaela Unger, Clinical AI / Kather lab / EKFZ, TU Dresden
+* Laura Žigutytė, Clinical AI / Kather lab / EKFZ, TU Dresden
+* Jan Clusmann, Clinical AI / Kather lab / EKFZ, TU Dresden
+* Asier Rabasco Meneghetti, Clinical AI / Kather lab / EKFZ, TU Dresden
+* Leo Misera, Clinical AI / Kather lab / EKFZ, TU Dresden
 * Dr. Robert Haase, ScaDS.AI, Uni Leipzig
 * Matthias Täschner, ScaDS.AI, Uni Leipzig
 
