@@ -39,8 +39,8 @@ parts:
 
     - file: day2.2_ml_introduction/readme.md
       sections: 
-      - file: day2.2_ml_introduction/01_first_notebook.ipynb
-
+      - file: day2.2_ml_introduction/Binary_Classification_PIMA.ipynb
+    
     - file: day2.3_data_preprocessing/readme.md
       sections: 
       - file: day2.3_data_preprocessing/1_Pandas_Introduction.ipynb

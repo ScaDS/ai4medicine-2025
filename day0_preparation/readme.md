@@ -93,11 +93,14 @@ A brief explanation of Large Language Models (LLM) and AI assistants can be down
   
 ## Download the Files for the Practical Exercise
 
-* The notebooks and files for the practical exercise can be downloaded as a ZIP [here](notebooks_download.zip) as soon they are complete.
+* The notebooks and files for the practical exercise can be downloaded as a ZIP [here](notebooks_download.zip).
 * Unpack the downloaded ZIP
-* Open a terminal or command prompt and navigate to the unpacked folder
-* `cd path/to/notebooks_download`
-* Activate the prepared conda environment in this folder and start Jupyter Lab like described above in "Preparing a Virtual Python Environment" - "4: Test the Virtual Environment"
+* Open a terminal or command prompt and navigate to the unpacked folder:
+  * `cd path/to/notebooks_download`
+* Activate the prepared conda environment in this folder:
+  * `conda activate ai4medicine-env`
+* Start Jupyter Lab:
+  * `jupyter lab`
 
 ---
   
