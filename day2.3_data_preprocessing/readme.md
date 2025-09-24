@@ -20,4 +20,4 @@ This session provides an introduction to **data preprocessing in Python** using 
 - Feature Engineering
 - Normalization and Scaling
 
-
+You can download the slides [here](Data-Preprocessing.pdf)
