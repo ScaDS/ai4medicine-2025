@@ -103,5 +103,14 @@ A brief explanation of Large Language Models (LLM) and AI assistants can be down
   * `jupyter lab`
 
 ---
-  
+
+## External datasets used in the exercises
+
+* https://nihcc.app.box.com/v/ChestXray-NIHCC (\~42GB)
+* https://www.kaggle.com/datasets/mahmoodyousaf2018/patched-dataset-wsi-for-kat (\~9.5GB)
+* https://www.kaggle.com/datasets/imrankhan77/crc-val-he-7k (\~1GB)
+* https://www.kaggle.com/datasets/imrankhan77/nct-crc-he-100k (\~15GB)
+
+---
+
 <p style="text-align: center; font-weight: bold;">Congratulations - the preparations are complete.</p>
