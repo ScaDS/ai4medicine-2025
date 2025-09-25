@@ -106,6 +106,8 @@ A brief explanation of Large Language Models (LLM) and AI assistants can be down
 
 ## External datasets used in the exercises
 
+Remote HPC resources are used for the deep learning sessions in particular, where data sets several GB in size are made available. If you would also like to work on the relevant data locally, you can find the links here:
+
 * https://nihcc.app.box.com/v/ChestXray-NIHCC (\~42GB)
 * https://www.kaggle.com/datasets/mahmoodyousaf2018/patched-dataset-wsi-for-kat (\~9.5GB)
 * https://www.kaggle.com/datasets/imrankhan77/crc-val-he-7k (\~1GB)
